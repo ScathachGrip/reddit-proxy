@@ -1,5 +1,5 @@
 {
-  "name": "cabul-rest",
+  "name": "reddit-proxy",
   "version": "1.0.1",
   "description": "Proxy API for reddit",
   "main": "build/index.js",
@@ -22,7 +22,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sinkaroid/cabul.git"
+    "url": "git+https://github.com/scathachgrip/reddit-proxy.git"
   },
   "keywords": [
     "reddit",
@@ -32,7 +32,7 @@
   "author": "sinkaroid",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sinkaroid/cabul/issues"
+    "url": "https://github.com/scathachgrip/reddit-proxy/issues"
   },
-  "homepage": "https://github.com/sinkaroid/cabul#readme"
+  "homepage": "https://github.com/scathachgrip/reddit-proxy#readme"
 }
