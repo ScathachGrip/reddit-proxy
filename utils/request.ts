@@ -26,6 +26,8 @@ export default async function request(url: site, options:
     }
 
     posts = shuffle(posts);
+    //filter item that doesn't have url_overridden_by_dest
+    posts = posts.filter((item: any) => item.url_overridden_by_dest);
     return posts;
 
   default:
